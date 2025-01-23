@@ -1,13 +1,12 @@
-<h1 align="center">😎 BitFrame 😎</h1>
-<h2 align="center">Software Developer | Tech Enthusiast | Open Source Contributor</h2>
+## Hi there!
+I'm BitFrame, a web developer that makes web apps.
 
-<h2 align="center">📊 My GitHub Stats 📊</h2>
-<div align="center">
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Linus.Linus&left_color=blue&right_color=green)
+I am also currently the owner of ``BitFrame Dev`` and I have a cool website that I've built at https://bitframe.au
 
-  ![Stats](https://github-readme-stats.vercel.app/api?username=bit-frame&show_icons=true&title_color=3498db&icon_color=2ecc71&text_color=ffffff&bg_color=151515&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Statistics)
+### Fun fact
+I am currently competing in the 2025 internationals round of FirstLegoLeague in the Submerged challenge! I will be heading to Sydney in July to represent the whole of Australia.
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bit-frame&layout=compact&title_color=3498db&icon_color=2ecc71&text_color=ffffff&bg_color=151515&border_radius=10&custom_title=Most%20Used%20Languages)
+### Current Project
+My current project is working on DayScope, a school based web application designed to simplify school tracking, planning and some others for both students and teachers to use!
 
-</div>
+If your curious, you can visit the landing site at https://bitframe.au/dayscope and try a free demo!
